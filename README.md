@@ -1,7 +1,6 @@
-## Hi there 👋
 
 
-## Hi there 👋
+## Welcome, thank you for visiting. I hope you find inspiration and resources here that ignite your curiosity and enhance your journey in the world of technology and innovation.
 
 
 ## 🫱🏻‍🫲🏽 About Me: I am passionate about working in the IT field as I enjoy constant learning and working in a fast-paced industry that follows a growth mindset. Once starting my journey in coding, I experienced the field's limitless potential for growth and innovation. I am eager to see where my coding journey brings me and to keep contributing in meaningfully impactful ways.
