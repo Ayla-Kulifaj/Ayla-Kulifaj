@@ -1,6 +1,7 @@
 ## Welcome!
 Thank you for visiting! I hope you find inspiration and resources here that ignite your curiosity and enhance your journey in the world of technology and innovation.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayla-kulifaj)
 
